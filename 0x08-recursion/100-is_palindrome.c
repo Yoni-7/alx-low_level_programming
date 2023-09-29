@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* is_palindrome - returns true if the given string is a palindrome
-*@s: string to check
-*Return: true if the given string is a palindrome
-*/
+ * is_palindrome - returns true if the given string is a palindrome
+ *@s: string to check
+ *Return: true if the given string is a palindrome
+ */
 
 int is_palindrome(char *s)
 {
